@@ -103,6 +103,7 @@ body{
 }
 footer>a:hover{
     font-size: 30px;
+    color: rgba(250,0,0);
 }
 .imgfluid{
     height:50px;
